@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../../../c language"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../DSA.C++"
+		},
+		{
+			"path": "../../Notebooks"
+		},
+		{
+			"path": "../../HTML"
+		},
+		{
+			"path": "../../Python"
+		},
+		{
+			"path": "../../../Documents/FSD"
+		},
+		{
+			"path": "../../../Documents/code_crafters_project[1]"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
